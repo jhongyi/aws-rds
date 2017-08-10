@@ -99,7 +99,7 @@ resources:
         Engine: "postgres"
         EngineVersion: "9.3.14"
         MultiAZ: False
-        DBName: "wsign"
+        DBName: "postgres"
         DBInstanceIdentifier: "postgres"
         MasterUsername: "postgres"
         MasterUserPassword: "postgres123"
